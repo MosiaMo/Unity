@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0365c9cf29d0f743b72bee060ae0aea, type: 3}
+  m_Name: HelmofValor
+  m_EditorClassIdentifier: 
+  name: Helm of Valor
+  Type: 0
+  Speed: 50
+  Health: 0
+  Mana: 0
+  Strength: 0
+  Magic: 0
+  Defence: 1
+  Luck: 0
