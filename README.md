@@ -1,3 +1,3 @@
 # Unity
 Moje projekty unity. Folder Assets zawiera trzy gry wykonane w Unity.
-Folder Beczka jest wykonaną w blenderze przeze mnie beczki i wprowadzenie jej do Unity.
+Projekt 2 zawiera projekt nauki mechanik dry. Wykonane inventory i możliwość wzięcia przedmiotu przez "postać". Dodana też mechanika dnia i nocy w grze. Projekty zostały wykonane na zajęciach. 
